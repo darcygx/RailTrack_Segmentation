@@ -1,10 +1,11 @@
 # RailTrack_Segmentation
 Codes of RailTrack_Segmentation of TITS2021-Enhanced Few-Shot Learning for Intrusion Detection in Railway Video Surveillance.<br>
 Sorry that we cannot provide the local dataset.<br>
-The open source RailSem19 from [here](https://wilddash.cc/) is useful dataset for vision-based rail reasearch.<br>
+The used RailSem19 from [here](https://wilddash.cc/) is a useful dataset for vision-based rail reasearch. The RailSem19 has 8500 images
+taken from the ego-perspective of rail vehicles.<br>
 You should pre-process this dataset for the selected labels as follows<br>
-![71](https://user-images.githubusercontent.com/51082421/171318421-07d7e6f2-e110-47bc-ab28-9231ea1034f4.jpg)
-![71](https://user-images.githubusercontent.com/51082421/171318458-c960df83-1069-4694-9402-fa1cea924b1a.jpg)
+
+![ff](https://user-images.githubusercontent.com/51082421/171320861-0c614b0d-4306-4cdc-a83f-c968ca5d1f63.jpg)
 
 # Results
 ![fig](https://user-images.githubusercontent.com/51082421/171319540-848f0e2d-21d1-49aa-84a9-ad76305f719d.jpg)

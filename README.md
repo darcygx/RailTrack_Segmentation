@@ -12,4 +12,5 @@ You should pre-process this dataset for the selected labels as follows<br>
 # Citation
 X. Gong, X. Chen, Z. Zhong and W. Chen, "Enhanced Few-Shot Learning for Intrusion Detection in Railway Video Surveillance," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2021.3102613.
 
+Thank the researcher for the open source codes. https://github.com/bat67/pytorch-FCN-easiest-demo <br>
 If you have any question, please feel free to contact me via: xiaogong@bjtu.edu.cn
